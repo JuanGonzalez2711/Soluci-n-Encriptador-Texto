@@ -41,6 +41,7 @@ Además, incluye un botón para copiar el texto encriptado/desencriptado al port
 ```
 
 🛠 Cómo Usar
+
 ```plaintext
 Clona este repositorio en tu máquina local:
 bash
@@ -52,11 +53,13 @@ Usa los botones para encriptar o desencriptar según sea necesario.
 ```
 
 🌐 Ver en GitHub Pages
+
 Puedes ver la página del proyecto en acción en GitHub Pages.
 Por medio del siguiente link: https://juangonzalez2711.github.io/Solucion-Encriptador-Texto/
 
 👤 Autor
+
 Desarrollado por Juan Jose Gonzalez Ruiz. Puedes encontrarme en:
 
-GitHub: https://github.com/JuanGonzalez2711
-LinkedIn: https://www.linkedin.com/in/juan-jose-gonzalez-ruiz-6b9bb5258/
+- **GitHub:** https://github.com/JuanGonzalez2711
+- **LinkedIn:** https://www.linkedin.com/in/juan-jose-gonzalez-ruiz-6b9bb5258/
