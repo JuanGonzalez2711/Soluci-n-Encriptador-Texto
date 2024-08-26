@@ -1,7 +1,5 @@
 # Encriptador de Texto
 
-![GitHub Pages](https://juangonzalez2711.github.io/Solucion-Encriptador-Texto/)
-
 Este proyecto es un encriptador y desencriptador de texto desarrollado con HTML, CSS y JavaScript. Permite encriptar y desencriptar palabras siguiendo un conjunto específico de reglas. El proyecto es responsivo y está diseñado para funcionar correctamente en dispositivos de diferentes tamaños.
 
 ## 📋 Descripción
@@ -40,8 +38,10 @@ Además, incluye un botón para copiar el texto encriptado/desencriptado al port
 ├── style.css        # Estilos CSS personalizados
 ├── script.js        # Lógica de encriptación/desencriptación
 └── README.md        # Descripción del proyecto
+```
 
 🛠 Cómo Usar
+```plaintext
 Clona este repositorio en tu máquina local:
 bash
 Copiar código
@@ -49,6 +49,7 @@ git clone https://github.com/tuusuario/encriptador-texto.git
 Abre index.html en tu navegador favorito.
 Escribe el texto que deseas encriptar o desencriptar en el cuadro de texto.
 Usa los botones para encriptar o desencriptar según sea necesario.
+```
 
 🌐 Ver en GitHub Pages
 Puedes ver la página del proyecto en acción en GitHub Pages.
